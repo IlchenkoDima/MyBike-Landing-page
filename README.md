@@ -11,8 +11,7 @@ This project demonstrates clean and maintainable front-end architecture suitable
 ---
 
 ## 🎨 Design Reference
-[Design in Figma](https://www.figma.com/file/your-design-link)
-*(Replace with your actual design file link if applicable)*
+[Design in Figma](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=QR1QqQuaUAEz5U3v-0)
 
 ---
 
