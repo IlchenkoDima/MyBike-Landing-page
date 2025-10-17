@@ -1,30 +1,41 @@
+# Creative Landing Page
+
+A responsive, modern landing page built with **HTML5**, **SCSS**, and following the **BEM (Block Element Modifier)** methodology.
+This project demonstrates clean and maintainable front-end architecture suitable for real-world landing pages and promotional websites.
+
+---
+
+## 🔗 Live Preview
 - [DEMO LINK](https://IlchenkoDima.github.io/MyBike-Landing-page/)
 
-#Project Description
+---
 
-This is a responsive landing page created as part of my frontend development practice.
-The project focuses on clean layout structure, semantic HTML, and modern styling using SCSS.
+## 🎨 Design Reference
+[Design in Figma](https://www.figma.com/file/your-design-link)
+*(Replace with your actual design file link if applicable)*
 
-The goal was to build a visually appealing and fully responsive web page that looks great on all devices and demonstrates my understanding of layout techniques and web design fundamentals.
+---
 
-#Technologies Used
+## 🛠️ Technologies Used
+- **HTML5** — semantic and accessible structure
+- **SCSS (Sass)** — modular and maintainable styling
+- **BEM Methodology** — consistent class naming convention
+- **Flexbox / Grid** — responsive layout
+- **GitHub Pages** — for project deployment
 
-HTML5 – for semantic and structured markup
+---
 
-SCSS (SASS) – for modular, maintainable, and scalable styling
+## 🚀 Getting Started
 
-Flexbox / Grid – for responsive layout and alignment
+Follow these steps to run the project locally:
 
-BEM methodology – for clear and reusable CSS structure
+```bash
+# Clone the repository
+git clone https://github.com/IlchenkoDima/creative-landing.git
+cd creative-landing
 
-#Features
+# Install dependencies (if you use a bundler like Vite or Parcel)
+npm install
 
-Fully responsive design
-
-Reusable and modular SCSS structure
-
-Pixel-perfect layout based on design
-
-Accessible and semantic HTML
-
-Organized folder structure for scalability
+# Run the project locally
+npm start
