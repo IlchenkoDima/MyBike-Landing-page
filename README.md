@@ -1,4 +1,30 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- [DEMO LINK](https://IlchenkoDima.github.io/MyBike-Landing-page/)
+
+#Project Description
+
+This is a responsive landing page created as part of my frontend development practice.
+The project focuses on clean layout structure, semantic HTML, and modern styling using SCSS.
+
+The goal was to build a visually appealing and fully responsive web page that looks great on all devices and demonstrates my understanding of layout techniques and web design fundamentals.
+
+#Technologies Used
+
+HTML5 – for semantic and structured markup
+
+SCSS (SASS) – for modular, maintainable, and scalable styling
+
+Flexbox / Grid – for responsive layout and alignment
+
+BEM methodology – for clear and reusable CSS structure
+
+#Features
+
+Fully responsive design
+
+Reusable and modular SCSS structure
+
+Pixel-perfect layout based on design
+
+Accessible and semantic HTML
+
+Organized folder structure for scalability
